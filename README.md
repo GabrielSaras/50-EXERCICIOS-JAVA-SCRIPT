@@ -9,11 +9,11 @@ Apresentação: 10/04/2026
 
 # 👨‍💻 Integrantes do Grupo
 
-Gabriel Saras -	25058772-2
-Vanessa C. Souza -	25356515-2
-Stefany M. Moreira -	25270134-2
-Kaio Eduardo -	25127228-2
-Matheus R. Rocha -	25161131-2
+Gabriel Saras -	25058772-2  
+Vanessa C. Souza -	25356515-2  
+Stefany M. Moreira -	25270134-2  
+Kaio Eduardo -	25127228-2  
+Matheus R. Rocha -	25161131-2  
 ---
 
 ## 🎯 Objetivo
